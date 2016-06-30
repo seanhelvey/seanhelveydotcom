@@ -9,10 +9,11 @@
 title: Sean Helvey
 email: me@seanhelvey.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my site!
+  My first word was cheese
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://seanhelvey.com" # the base hostname & protocol for your site
 github_username:  seanhelvey
+twitter_username:  seanhelvey
 
 # Build settings
 markdown: kramdown

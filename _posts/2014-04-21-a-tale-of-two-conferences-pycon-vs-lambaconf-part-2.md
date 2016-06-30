@@ -14,7 +14,7 @@ categories:
 So, what is the problem? Python is easy enough to read that Guido was able to debug his program in a matter of seconds during his keynote. If it were a large system with several dozen developers though, it would surely be more difficult to write tests and prevent errors from occurring. While Python is strongly typed, it is a <a title="dynamic programming language" href="http://en.wikipedia.org/wiki/Dynamic_programming_language" target="_blank">dynamic programming language</a>, meaning these checks happen at runtime instead of during compilation.
 
 <div id="attachment_598" style="width: 310px" class="wp-caption aligncenter">
-  <a href="https://twitter.com/boia01/status/457517653582557185/photo/1"><img class="wp-image-598 size-medium" src="/assets/images/seanhelvey/2014/04/Screen-Shot-2014-04-20-at-11.07.20-AM-300x227.png" alt="Thanks to Alex Boisvert for the image." width="300" height="227" srcset="/assets/images/seanhelvey/2014/04/Screen-Shot-2014-04-20-at-11.07.20-AM-300x227.png 300w, http://www.seanhelvey.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-20-at-11.07.20-AM.png 907w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://twitter.com/boia01/status/457517653582557185/photo/1"><img class="wp-image-598 size-medium" src="/assets/images/seanhelvey/2014/04/Screen-Shot-2014-04-20-at-11.07.20-AM-300x227.png" alt="Thanks to Alex Boisvert for the image." width="300" height="227" srcset="/assets/images/seanhelvey/2014/04/Screen-Shot-2014-04-20-at-11.07.20-AM-300x227.png 300w, /assets/images/seanhelvey/2014/04/Screen-Shot-2014-04-20-at-11.07.20-AM.png 907w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
   <p class="wp-caption-text">
     Thanks to Alex Boisvert for the image.

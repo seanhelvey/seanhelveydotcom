@@ -43,4 +43,4 @@ Give back to the community
 --------------------------
 I cannot tell you how grateful I am for the incredible community of functional programmers. Do not be afraid of your zealot co-worker who tells you that Haskell is better than Python and they can prove it (hi [@puffnfresh](https://twitter.com/puffnfresh)). They are trying to help you! Let's be honest - the terminology and pretense around functional programming can be off-putting to some beginners. It's ok.
 
-Soon you will find that these people are unbelievably generous and friendly. They are organizing conferences, teaching free classes, writing blog posts, and helping beginners in Slack channels. These people are legitimately trying to make the world a better place. The least that we can do as beginners is attempt to give back in the same way.
+Soon you will find that the functional programming community is unbelievably generous and friendly. They are organizing conferences, teaching free classes, writing blog posts, and helping beginners in Slack channels. These people are legitimately trying to make the world a better place. The least that we can do as beginners is attempt to give back in the same way.

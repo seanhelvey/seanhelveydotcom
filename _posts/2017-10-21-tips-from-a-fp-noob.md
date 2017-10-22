@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tips From an FP Noob"
-date:   2017-10-21-tips-from-an-fp-noob.md
+title:  "Tips From a FP Noob"
+date:   2017-10-21-tips-from-a-fp-noob.md
 permalink: /:title/
 ---
 

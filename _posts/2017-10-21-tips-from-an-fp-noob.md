@@ -11,6 +11,13 @@ Functional programming is amazing! Huge thanks to the professors, colleagues, an
 3. Really read the docs
 4. Give back to the community
 
+<div class="sean-blog-image">
+  <figure>
+    <a href="http://knowyourmeme.com/photos/969154-you-either-die-a-hero-or-you-live-long-enough-to-see-yourself-become-the-villain" target="_blank"><img alt="Noob gif" class=" lazyloaded" src="/assets/images/seanhelvey/2017/noob.jpg">
+    </a>
+  </figure>
+</div>
+
 Play with a passion project
 --------------------------
 Do it! Scratch your own itch. Save the world. Whatever. Just start building *something*. I personally tend to get bogged down working through a book of exercises and that has been a huge challenge for me while trying to learn Haskell. I've had better success with Elm, because I created [a calculator](http://www.valunicorn.me/) that I can actually see and use.

@@ -60,4 +60,4 @@ You can see the finished Elm view and the React / JSX code we replaced in this d
 </div>
 
 ### Step 3 - Follow the friendly compiler error messages
-If you have surrendered to The Elm Architecture (step #1) and tried translating the view from JSX to Elm (step #2) then you should be able to follow the friendly compiler error messages (step #3) as they shepherd you through any confusion from the Elm guide, docs, or other code samples and blog posts you are referring to. In the next post we will illustrate how to do this using the model and update functions along with ports to finish the "add todo" functionality.
+If you have surrendered to The Elm Architecture (step #1) and tried translating the view from JSX to Elm (step #2) then you should be able to follow the friendly compiler error messages (step #3) as they shepherd you through any confusion from the Elm guide, docs, or other code samples and blog posts you are referring to. In [the next post](http://www.seanhelvey.com/elm-in-react-part-3/) we will illustrate how to do this using the model and update functions along with ports to finish the "add todo" functionality.

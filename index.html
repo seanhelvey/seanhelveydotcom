@@ -4,20 +4,18 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Home</h1>
+  <h1 class="page-heading">About</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <p>
+    I started programming in quantitative finance classes at <a href="http://www.calpoly.edu/">Cal Poly SLO</a> and built option pricing models on Wall Street before completing a Master's Degree in Computer Science at NYU's <a href="https://cims.nyu.edu/">Courant Institute</a>.
+    </p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+    <p>
+    Since moving to Boulder I have worked at startups, agencies, and large corporations. I ran my own consulting business called <a href="http://www.bluehook.co/">Blue Hook</a> for three years and built machine learning systems using Python, Go, MongoDB, and Docker at Pearson before becoming a Web Development Instructor at Galvanize.
+    </p>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <p>
+    I spend my free time on <a href="http://www.meetup.com/Front-range-elm">Front Range Elm</a>, <a href="https://www.meetup.com/Colorado-Surf-Travel/">Colorado Surf Travel</a>, <a href="http://www.valunicorn.me/">Valunicorn</a>, and learning functional programming (λ). Please feel free to reach out!
+    </p>
 
 </div>

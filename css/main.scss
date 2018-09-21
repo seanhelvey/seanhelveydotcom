@@ -62,3 +62,34 @@ $on-laptop:        800px;
   text-align: center;
   margin: 5%;
 }
+
+.sean-index-image {
+    text-align: center;
+    margin: 0% 25%;
+  }
+
+.rounded {
+    border-radius: 2%;
+}
+
+.container {
+    display: flex;
+    margin-top: 5%;
+  }
+  
+  .section {
+    flex: 1; /*grow*/
+    text-align: center;
+  }
+  
+  @media (max-width: 768px) { /*breakpoint*/
+    .container {
+      flex-direction: column;
+    }
+
+    .sean-index-image {
+        text-align: center;
+        margin: 5% 15%;
+      }
+
+    }

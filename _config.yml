@@ -17,3 +17,6 @@ twitter_username:  seanhelvey
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-octicons

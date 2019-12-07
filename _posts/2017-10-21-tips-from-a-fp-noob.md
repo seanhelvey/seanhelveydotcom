@@ -26,7 +26,8 @@ Ask the right questions
 --------------------------
 If you roll into a Slack channel and say that your precious calculator is broken, nobody is going to hear you. I've found that thinking in terms of higher order functions such as map and fold will help not only when communicating with other programmers, but especially when trying to answer your own questions.
 
-For me over the last couple of months, it has looked something like this:
+For me over the last couple of months, it has looked something like this:    
+
 > Q: "Is there a higher order function to generate a series of values from an initial value?"    
 > A: "Yes. Unfold."    
 

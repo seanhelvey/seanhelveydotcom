@@ -25,12 +25,12 @@ Uncertainty in the markets takes the form of volatility, which has a negative co
 <br>
 
 ### Deficit spending
-Let's say hypothetically that an increase in military spending will be offset by recuded healthcare expenditures. Still, the increased infrastructure spending will have to come from somewhere. This will likely be funded with debt. An increase in the supply of debt reduces the price, which leads to an increase in interest rates.
+Let's say hypothetically that an increase in military spending will be offset by reduced healthcare expenditures. Still, the increased infrastructure spending will have to come from somewhere. This will likely be funded with debt. An increase in the supply of debt reduces the price, which leads to an increase in interest rates.
 
 <br>
 
 ### Reduced foreign demand for treasuries
-We own most of our own debt through the social security trust fund and federal reserve, so renegotating US debt would not fix anything. Our largest international creditors, China and Japan, have other options. They will continue to reduce their demand for treasures as US credit worthiness deteriorates. Reduced demand leads to lower prices and higher interest rates.
+We own most of our own debt through the social security trust fund and federal reserve, so renegotiating US debt would not fix anything. Our largest international creditors, China and Japan, have other options. They will continue to reduce their demand for treasures as US credit worthiness deteriorates. Reduced demand leads to lower prices and higher interest rates.
 
 <br>
 
@@ -49,5 +49,5 @@ Increased volatility, greater supply, and lower demand for treasuries are causin
 
 The current economic outlook presents us with a conundrum. While banks may benefit from higher interest rates, weak economic growth will offset that to some degree. Whether or not the US actually defaults on its debt, we will certainly see panics and crashes over the next couple of years. Ratings agency downgrades, bank-runs, and capital controls combined with the factors outlined above will make it difficult for people to trust banks and take advantage of higher interest rates, while money under the mattress could lose value due to currency depreciation and associated inflationary pressures. 
 
-My personal reccomendation would be to purchase high quality stocks when market prices drop. This approach will provide you with a stable stream of growing dividend payments. You can subscribe to my newsletter <a href="http://www.valunicorn.me/">Valunicorn</a> for free during 2016 and remain grandfathered in for life! Whatever you decide, be prepared for a period of rising interest rates due to the five simple reasons outlined above.
+My personal recommendation would be to purchase high quality stocks when market prices drop. This approach will provide you with a stable stream of growing dividend payments. You can subscribe to my newsletter <a href="http://www.valunicorn.me/">Valunicorn</a> for free during 2016 and remain grandfathered in for life! Whatever you decide, be prepared for a period of rising interest rates due to the five simple reasons outlined above.
 
